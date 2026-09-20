@@ -19,3 +19,7 @@ sky:
     access-key-id: LTAI5t9XUgc5W7oLLhxkALM5
     access-key-secret: FTHjJp84uL7XAIvO7kvGFwIMS474w2
     bucket-name: da-shuaige
+  shop:
+    address: 北京市海淀区上地十街10号
+  baidu:
+    ak: QOQ1TnLiQXmGa4WNgbMByWRPINTMTLTX
