@@ -4,3 +4,8 @@
 *.class
 *Test.java
 **/test/
+
+# 本地配置文件，含数据库密码、微信密钥、云存储密钥等，禁止提交
+**/application-dev.yml
+**/application-local.yml
+**/application-prod.yml
